@@ -110,3 +110,4 @@ exclude:
   - README.md
   - netlify.toml
   - stackbit-build.sh
+domain: 'https://unique-tomato-d8bb2.netlify.app'
